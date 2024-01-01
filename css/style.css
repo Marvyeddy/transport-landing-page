@@ -473,6 +473,10 @@ color: hsla(195, 100%, 88%, 1);
             width: 24px;
             height: 24px;
         }
+
+        .two{
+            display: none;
+        }
     
         .footer2 {
             padding: 40px 16px;

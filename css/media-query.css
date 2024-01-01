@@ -424,12 +424,17 @@ header{
         margin: 0px auto;
     }
 
-    .footer-ul{
+    .two{
+        display: flex;
         flex-direction: column;
         margin: 40px auto 30px;
         width: 335px;
         height: 136px;
         padding-right: 12px;
+    }
+
+    .one{
+        display: none;
     }
 
     .contact{
