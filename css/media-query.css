@@ -282,6 +282,11 @@ header{
         margin: 40px auto 0px;
     }
 
+    .container2-bottom{
+        display: block;
+        margin-left: 20px;
+    }
+
     .container2 .p1{
         font-size: 16px;
         margin-top: -50px;
@@ -297,7 +302,7 @@ header{
     .map{
         width: 310.79px;
         height: 310.79px;
-        margin-left: 50px;
+        margin: 0px 25px;
     }
 
     .chart{
@@ -306,6 +311,8 @@ header{
         height: auto;
         padding: 18px;
     }
+
+
 
     .container3{
         width: 100%;
@@ -397,12 +404,13 @@ header{
     .chartx{
         display: flex;
         flex-direction: column;
-        margin: 40px 20px;
-        width: 335px;
+        margin: 40px auto;
+        width: 320px;
     }
 
     .x{
         width: 100%;
+        border-radius: 12px;
     }
 
     .container6 > .p5{
