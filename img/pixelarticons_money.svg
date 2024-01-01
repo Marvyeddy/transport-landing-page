@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="pixelarticons:money">
+<path id="Vector" d="M16 4H2V16H6V20H22V8H18V4H16ZM16 6V8H6V14H4V6H16ZM8 10H20V18H8V10ZM16 12H12V16H16V12Z" fill="url(#paint0_linear_360_995)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_360_995" x1="12" y1="4" x2="12" y2="20" gradientUnits="userSpaceOnUse">
+<stop offset="0.682292" stop-color="#002E36"/>
+<stop offset="1" stop-color="#037AA3"/>
+</linearGradient>
+</defs>
+</svg>
